@@ -1,0 +1,10 @@
+﻿Build started 2/20/2014 12:14:11 AM.
+     1>Project "c:\Users\Zack\documents\visual studio 2012\Projects\SDL2_Tutorial03\SDL2_Tutorial03\SDL2_Tutorial03.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\zack\documents\visual studio 2012\Projects\SDL2_Tutorial03\Debug\SDL2_Tutorial03.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Zack\Desktop\SDL stuff\Dev Libraries\SDL2-devel-2.0.1-VC\SDL2-2.0.1\lib\x86" /LIBPATH:"C:\Users\Zack\Desktop\SDL stuff\Dev Libraries\Extension Lib\SDL2_image-devel-2.0.0-VC\SDL2_image-2.0.0\lib\x86" SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\zack\documents\visual studio 2012\Projects\SDL2_Tutorial03\Debug\SDL2_Tutorial03.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\zack\documents\visual studio 2012\Projects\SDL2_Tutorial03\Debug\SDL2_Tutorial03.lib" /MACHINE:X86 Debug\main.obj
+         SDL2_Tutorial03.vcxproj -> c:\users\zack\documents\visual studio 2012\Projects\SDL2_Tutorial03\Debug\SDL2_Tutorial03.exe
+     1>Done Building Project "c:\Users\Zack\documents\visual studio 2012\Projects\SDL2_Tutorial03\SDL2_Tutorial03\SDL2_Tutorial03.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31
